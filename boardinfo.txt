@@ -1,3 +1,0 @@
-board.PNG,player2.png,player1.png,dice.png,banner.jpg,6,5,100,120,2,21,4,7,10,25,19,28,16,3,18,6,20,8,26,0
-board2.PNG,player2.png,player1.png,dice.png,banner.jpg,10,10,60,60,2,50,5,26,19,69,35,54,62,94,67,97,98,68,90,60,86,56,64,51,46,18,33,0,24,4
-board3.PNG,player2.png,player1.png,dice.png,banner.jpg,8,8,75,75,5,60,10,24,15,31,32,49,40,57,62,37,59,55,30,18,25,23,19,1
